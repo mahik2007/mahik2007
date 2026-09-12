@@ -122,7 +122,15 @@
 <img src="https://img.shields.io/badge/InVideo-FF4F67?style=for-the-badge" alt="InVideo"/>
 <img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge" alt="Higgsfield"/>
 </p>
- 
+
+
+ <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mahik2007&label=Profile%20views&color=9B6ADE&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mahimakumari261207/">
