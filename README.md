@@ -147,6 +147,14 @@
 
 <br>
 
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Mahima Kumari · IIT Patna · AI & Cybersecurity**
+
+</div>
+
 <br>
 
 </p>
