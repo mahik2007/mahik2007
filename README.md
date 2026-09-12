@@ -139,10 +139,20 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:mahimak2010@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mahik2007.github.io/mahima-portfolio/" title="Portfolio">
-    <span style="font-size: 36px;">🌐</span>
+    <img src="https://api.iconify.design/mdi/web.svg?color=%2300AEEF" alt="Portfolio" width="45" height="45" />
   </a>
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahik2007&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
+
+</div>
+
 </p>
 
 <picture>
