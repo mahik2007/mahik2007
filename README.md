@@ -1,12 +1,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mahima%20Kumari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 ## 📌 About Me
-- 🌱 I'm currently learning Python, Data Structures & Algorithms, AI/ML, and Cybersecurity while pursuing my BS-MS in AI & Cybersecurity at IIT Patna.
-- 👩‍💻 I'm looking to collaborate on AI/ML, UI/UX, frontend development, and innovative hackathon projects.
-- 🤝 I'm looking for help with strengthening my DSA, building real-world AI projects, and exploring opportunities in AI, cybersecurity, and product development.
+
+- 🎓 **BS-MS student in Artificial Intelligence & Cybersecurity @ IIT Patna** — building a strong foundation in AI, cybersecurity, data science, and software development.
+- 💻 **Web Developer & Project Builder** — creating responsive and user-focused web applications using HTML, CSS, JavaScript, Python, and modern web technologies.
+- ✈️ Built **TripWise — Split Your Expenses Wisely**, a web application designed to simplify group travel expense tracking and expense splitting.
+- 🏆 **Hackathon Participant** — worked on projects including **AAPDASETU**, **COMET**, and a **Sentiment-Based Investment Signal Analyzer**.
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, Data Science, and AI-powered applications** through projects and hands-on learning.
+- 🔐 Developing my knowledge of **Cybersecurity** alongside programming and software development.
+- 🐍 Currently strengthening **Python and Data Structures & Algorithms** while expanding my development skills.
+- 🚀 Interested in building **real-world products, AI-powered solutions, and innovative web applications**.
+- 🤝 Open to **collaborating on projects, hackathons, open-source initiatives, and technology-driven ideas**.
+
+
+## 🎓 Academic Highlights
+
+- 🏅 **9.2 CPI** — Semester 1, IIT Patna
+- 📚 **88%** — Class XII, ICSE
+- 📚 **93%** — Class X, ICSE
+- 🎓 **BS-MS Artificial Intelligence & Cybersecurity** — IIT Patna
 
 
 ## 🧠 My Focus Areas
+
 - AI & Machine Learning
 - Cybersecurity
 - Web & Frontend Development
