@@ -1,5 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mahima%20Kumari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
+<br>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mahik2007&label=Profile%20views&color=9B6ADE&style=flat-square" alt="Profile Views"/>
+
+</div>
+<br>
+
 ## 📌 About Me
 
 - 🎓 **BS-MS student in Artificial Intelligence & Cybersecurity @ IIT Patna** — building a strong foundation in AI, cybersecurity, data science, and software development.
@@ -122,13 +130,6 @@
 <img src="https://img.shields.io/badge/InVideo-FF4F67?style=for-the-badge" alt="InVideo"/>
 <img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge" alt="Higgsfield"/>
 </p>
-
-
- <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mahik2007&label=Profile%20views&color=9B6ADE&style=flat-square" alt="Profile Views"/>
-
-</div>
 
 
 ## 🔗 Connect with Me
