@@ -147,11 +147,15 @@
 
 <br>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahik2007&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
+<img src="https://ghchart.rshah.org/00AEEF/mahik2007" alt="Mahima's GitHub Contribution Graph" width="95%"/>
 
 </div>
+
+<br>
 
 </p>
 
