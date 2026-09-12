@@ -85,9 +85,11 @@
 <p>
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
 <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/>
 <img src="https://img.shields.io/badge/Google_Antigravity-5F6368?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+<img src="https://img.shields.io/badge/ZCode-7C3AED?style=for-the-badge" alt="ZCode"/>
 </p>
 
 ### ☁️ Development & Deployment
