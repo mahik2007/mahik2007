@@ -56,6 +56,71 @@
   </a>
 </p>
 
+## 🛠️ Tech Stack
+
+### 👩‍💻 Languages & Web
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
+<img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" alt="Recharts"/>
+</p>
+
+### 🤖 AI / ML / Data
+
+<p>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Data_Science-0F9D58?style=for-the-badge" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=for-the-badge" alt="Data Analytics"/>
+</p>
+
+### ✨ GenAI & AI Tools
+
+<p>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/>
+<img src="https://img.shields.io/badge/Google_Antigravity-5F6368?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+</p>
+
+### ☁️ Development & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
+
+### 🎨 Design & Prototyping
+
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Stitch"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</p>
+
+### 📊 Data & Geo Tools
+
+<p>
+<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine"/>
+</p>
+
+### 🎬 Creative & Content Tools
+
+<p>
+<img src="https://img.shields.io/badge/InVideo-FF4F67?style=for-the-badge" alt="InVideo"/>
+<img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge" alt="Higgsfield"/>
+</p>
+ 
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mahimakumari261207/">
