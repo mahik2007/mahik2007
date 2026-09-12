@@ -149,14 +149,6 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00AEEF/mahik2007" alt="Mahima's GitHub Contribution Graph" width="95%"/>
-
-</div>
-
-<br>
-
 </p>
 
 <picture>
