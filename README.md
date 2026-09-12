@@ -140,8 +140,8 @@
   <a href="mailto:mahimak2010@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
-  <a href="https://mahik2007.github.io/mahima-portfolio/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/GoogleChrome.svg" alt="Portfolio" width="40" />
+  <a href="https://mahik2007.github.io/mahima-portfolio/" title="Portfolio">
+    <span style="font-size: 36px;">🌐</span>
   </a>
 </p>
 
